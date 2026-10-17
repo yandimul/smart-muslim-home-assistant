@@ -1,0 +1,2 @@
+# smart-muslim-home-assistant
+
