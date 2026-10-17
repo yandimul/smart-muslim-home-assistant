@@ -1,9 +1,11 @@
+
 {
   "domain": "smart_muslim_home",
   "name": "Smart Muslim Home",
-  "version": "0.1.2",
-  "documentation": "https://github.com/YOUR_GITHUB_USERNAME/smart-muslim-home",
-  "issue_tracker": "https://github.com/YOUR_GITHUB_USERNAME/smart-muslim-home/issues",
+  "version": "0.1.3",
+  "documentation": "https://github.com/yandimul/smart-muslim-home-assistant",
+  "issue_tracker": "https://github.com/yandimul/smart-muslim-home-assistant/issues",
+  "codeowners": ["@yandimul"],
   "config_flow": true,
   "iot_class": "cloud_polling",
   "requirements": []
