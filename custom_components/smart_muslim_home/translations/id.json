@@ -1,0 +1,17 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Smart Muslim Home (Kemenag RI)",
+        "description": "Atur lokasi rumah. Perhitungan waktu salat menggunakan profil Kemenag RI.",
+        "data": {
+          "latitude": "Garis lintang",
+          "longitude": "Garis bujur"
+        }
+      }
+    },
+    "abort": {
+      "already_configured": "Integrasi ini sudah dikonfigurasi."
+    }
+  }
+}
